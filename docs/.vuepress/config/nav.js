@@ -42,6 +42,14 @@ module.exports = [
       {text: '连接池', link: '/pages/ae99f1/'},
     ]
   }
+  ,
+  {
+    text: '开源', 
+    link: '/opensource/',
+    items: [
+      {text: 'learnbydo', link: '/pages/3ed8ea/'},
+    ]
+  }
   // ,
   // {text: '归档', link: '/archives/'}
 ]
