@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /img/web.png
-heroText: 知识库演示
+heroText: 一亩三分地
 tagline: Vdoing主题演示-知识库
 actionText: 立刻进入 →
 actionLink: /web/
@@ -43,9 +43,9 @@ postList: none
 博客部分特色功能介绍
 
 #### 一站式技术搜索
-   
+
    博客内容中包含部分技术教程，可以利用搜索框快速搜索到相关文档，即使博客中没有的，你还可以选择最下方的 `在XXX中搜索“xxx”` 快速到达你想要找的内容。
-   
+
 
 #### Demo演示模块
    为了更直观的展示一些代码的效果，博客添加了demo模块插件，可查看demo、源码，以及跳转到codepen在线编辑。**示例**：
@@ -69,5 +69,4 @@ postList: none
 
 #### 深色模式与阅读模式
 关爱程序员，保护视力，点击右下角的主题模式按钮试试吧~ -->
-
 
